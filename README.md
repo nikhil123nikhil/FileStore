@@ -63,3 +63,4 @@ banned_users - Get All Banned Users [Owner Only]
 <a href="https://twitter.com/Cod3sofAbhi"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
 <a href="https://facebook.com/Abhishek.modi.58173000"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
 <a href="https://www.instagram.com/Cod3sofAbhi"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/F-JID9?referralCode=YdIPoB)
